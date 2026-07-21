@@ -2,3 +2,4 @@
 This is my first Repository
 <br>
 Authour - studied by Shrada Didi
+Subject - Git and Git_Hub
