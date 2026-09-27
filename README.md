@@ -4,3 +4,4 @@ This is my first Repository
 Authour - studied by Shrada Didi
 <br>
 Subject - Git and Git_Hub
+Preparing for creating projects its like project repository.
