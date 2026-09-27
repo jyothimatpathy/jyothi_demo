@@ -1,7 +1,7 @@
 # jyothi_demo
 This is my first Repository
 <br>
-Authour - studied by Shrada Didi
+Authour - studied by Shrada Didi(apna college)
 <br>
 Subject - Git and Git_Hub
 <br>
